@@ -1,0 +1,10 @@
+name: unet_erosion
+channels:
+  - defaults
+dependencies:
+  - tensorflow=1.10
+  - matplotlib
+  - opencv
+  - gdal
+  - pillow
+  - psutil
