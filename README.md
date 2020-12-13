@@ -42,7 +42,7 @@ cite our paper:
 ```
 @article{SamarinZweifel2020,
   title={Identifying Soil Erosion Processes in Alpine Grasslands on Aerial Imagery with a U-Net Convolutional Neural Network},
-  author={Samarin, Maxim and Zweifel, Lauren and Roth, Volker and Alewell, Christine},
+  author={Samarin*, Maxim and Zweifel, Lauren* and Roth, Volker and Alewell, Christine},
   journal={Under review in Remote Sensing},
   year={2020},
 }
